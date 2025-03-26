@@ -1,6 +1,4 @@
-<h1 align="center">Hey! I am ...</h1>
-
-<h2 align="center">SOFTWARE ENGINEER</h2>
+<h1 align="center">Hey! I am Suraj.</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile views">
