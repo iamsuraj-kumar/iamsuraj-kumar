@@ -6,12 +6,15 @@
 
 ## About me :
 - 📂 **Portfolio:** [https://github.com/iamsuraj-kumar](https://github.com/iamsuraj-kumar)
-- 👨‍💻 I'm currently working on **FoodSnap**, an app that helps you scan and rate products based on their nutrition labels and ingredients, and **StopScroll**, an app to block short videos.  
-- 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**  
+  
+- 👨‍💻 I'm currently working on **FoodSnap**, an app that helps you scan and rate products based on their nutrition labels and ingredients, and **StopScroll**, an app to block short videos.
+  
+- 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**
+   
 - 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
 
 ## Connect with me :
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
   </a>
@@ -26,8 +29,10 @@
 
 
 ## Projects :
-- 📱 **[FoodSnap](#)** – An AI-powered app that helps users scan and analyze food products based on their nutrition labels and ingredients. It provides health ratings and suggests better alternatives to promote healthier choices.  
-- 🚫 **[StopScroll](#)** – A productivity-focused app designed to block short video content on social media platforms, helping users break free from endless scrolling and regain control over their time.  
+- 📱 **[FoodSnap](#)** – An AI-powered app that helps users scan and analyze food products based on their nutrition labels and ingredients. It provides health ratings and suggests better alternatives to promote healthier choices.
+  
+- 🚫 **[StopScroll](#)** – A productivity-focused app designed to block short video content on social media platforms, helping users break free from endless scrolling and regain control over their time.
+  
 - 🎮 **[Game Development](#)** – Pursuing game development as a side hustle, exploring innovative ideas and enhancing my skills. 
 
 
