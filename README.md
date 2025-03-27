@@ -5,23 +5,24 @@
 </p>
 
 ## About me :
-- 📂 **Portfolio:** Coming soon!
+- 📂 **Portfolio:** [https://github.com/iamsuraj-kumar](https://github.com/iamsuraj-kumar)
 - 👨‍💻 I’m currently working on my **startup** and developing **FoodSnap** (AI-powered food scanner) and **StopScroll** (blocking short videos).  
 - 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**  
-- 📧 Reach me at **your.email@example.com**  
+- 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
 
 ## Connect with me :
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+    <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" width="60" height="60"/>
   </a>
   <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" alt="HackerRank" width="60" height="60"/>
   </a>
 </p>
+
 
 
 ## Projects :
