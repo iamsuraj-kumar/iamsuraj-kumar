@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I am Suraj.</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=iamsuraj-kumar&color=blue&style=flat-square" alt="Profile views">
 </p>
 
 
