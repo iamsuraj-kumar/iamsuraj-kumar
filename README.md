@@ -26,10 +26,9 @@
 
 
 ## Projects :
-- 📱 **[FoodSnap](#)** – AI-powered food scanner that analyzes ingredients and health impact.  
-- 🚫 **[StopScroll](#)** – A productivity app to block addictive short video content.  
-- 🏆 **[Hackathon Project](#)** – Built an innovative solution in a recent hackathon.  
-- 🎮 **[Game Development](#)** – Exploring game development as a side hustle.  
+- 📱 **[FoodSnap](#)** – An AI-powered app that helps users scan and analyze food products based on their nutrition labels and ingredients. It provides health ratings and suggests better alternatives to promote healthier choices.  
+- 🚫 **[StopScroll](#)** – A productivity-focused app designed to block short video content on social media platforms, helping users break free from endless scrolling and regain control over their time.  
+- 🎮 **[Game Development](#)** – Pursuing game development as a side hustle, exploring innovative ideas and enhancing my skills. 
 
 
 <div align="center">
