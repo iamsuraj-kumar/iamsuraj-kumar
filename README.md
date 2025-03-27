@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile views">
 </p>
 
+
 ## About me :
 <img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" width="250"/>
 - 📂 **Portfolio:** [https://github.com/iamsuraj-kumar](https://github.com/iamsuraj-kumar)
@@ -14,19 +15,21 @@
    
 - 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
 
+
 ## Connect with me :
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/iamsuraj-kumar" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  
+  <a href="https://leetcode.com/u/iamsuraj-kumar" target="_blank">
     <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" width="50" height="50"/>
   </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+  
+  <a href="https://www.hackerrank.com/iamsuraj-kumar" target="_blank">
     <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" alt="HackerRank" width="50" height="50"/>
   </a>
 </p>
-
 
 
 ## Projects :
