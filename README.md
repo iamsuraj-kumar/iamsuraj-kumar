@@ -1,23 +1,6 @@
 <h1 align="center">Hey! I am Suraj.</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamsuraj-kumar&color=blue&style=flat-square" alt="Profile views">
-</p>
-
-
-## About me :
-<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" width="250"/>
-- 📂 **Portfolio:** [https://github.com/iamsuraj-kumar](https://github.com/iamsuraj-kumar)
-  
-- 👨‍💻 I'm currently working on **FoodSnap**, an app that helps you scan and rate products based on their nutrition labels and ingredients, and **StopScroll**, an app to block short videos.
-  
-- 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**
-   
-- 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
-
-
-## Connect with me :
-<p align="left">
   <a href="https://linkedin.com/in/iamsuraj-kumar" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
@@ -30,6 +13,17 @@
     <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" alt="HackerRank" width="50" height="50"/>
   </a>
 </p>
+
+
+## About me :
+<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" width="250"/>
+- 📂 **Portfolio:** [https://github.com/iamsuraj-kumar](https://github.com/iamsuraj-kumar)
+  
+- 👨‍💻 I'm currently working on **FoodSnap**, an app that helps you scan and rate products based on their nutrition labels and ingredients, and **StopScroll**, an app to block short videos.
+  
+- 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**
+   
+- 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
 
 
 ## Projects :
