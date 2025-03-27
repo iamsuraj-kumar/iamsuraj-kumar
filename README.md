@@ -15,15 +15,15 @@
 - 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
 
 ## Connect with me :
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" width="60" height="60"/>
+    <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" width="50" height="50"/>
   </a>
   <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" alt="HackerRank" width="60" height="60"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" alt="HackerRank" width="50" height="50"/>
   </a>
 </p>
 
