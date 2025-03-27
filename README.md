@@ -6,7 +6,7 @@
 
 ## About me :
 - 📂 **Portfolio:** [https://github.com/iamsuraj-kumar](https://github.com/iamsuraj-kumar)
-- 👨‍💻 I’m currently working on my **startup** and developing **FoodSnap** (AI-powered food scanner) and **StopScroll** (blocking short videos).  
+- 👨‍💻 I'm currently working on **FoodSnap**, an app that helps you scan and rate products based on their nutrition labels and ingredients, and **StopScroll**, an app to block short videos.  
 - 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**  
 - 📧 Reach me at [**skumar.x404@gmail.com**](mailto:skumar.x404@gmail.com) 
 
