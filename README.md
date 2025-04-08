@@ -9,7 +9,7 @@
     <img src="https://i0.wp.com/turingplanet.org/wp-content/uploads/2020/05/LeetCode_logo.png" alt="LeetCode" width="50" height="50"/>
   </a>
   
-  <a href="https://www.hackerrank.com/iamsuraj-kumar" target="_blank">
+  <a href="https://www.hackerrank.com/iamsurajkumar" target="_blank">
     <img src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-icon.png" alt="HackerRank" width="50" height="50"/>
   </a>
 </p>
