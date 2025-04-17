@@ -19,7 +19,8 @@
 <img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" width="250"/>
 - 📂 Portfolio: https://github.com/iamsuraj-kumar
   
-- 👨‍💻 I'm currently working on **FoodSnap**, an app that helps you scan and rate products based on their nutrition labels and ingredients, and **StopScroll**, an app to block short videos.
+- 👨‍💻 I'm currently working on **FoodInsight**, An innovative app that scans food product barcodes to provide detailed ingredient 
+analysis, calculate a health score, and suggest healthier alternatives., and **StopScroll**, an app to block short videos.
   
 - 📖 I’m currently learning **Flutter, AI/ML, and embedded systems for smart devices.**
    
