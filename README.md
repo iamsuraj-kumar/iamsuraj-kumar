@@ -28,7 +28,7 @@ analysis, calculate a health score, and suggest healthier alternatives., and **S
 
 
 ## Projects :
-- 📱 **[FoodSnap](#)** – An AI-powered app that helps users scan and analyze food products based on their nutrition labels and ingredients. It provides health ratings and suggests better alternatives to promote healthier choices.
+- 📱 **[FoodInsight](#)** – An innovative app that scans food product barcodes to provide detailed ingredient analysis, calculate a health score, and suggest healthier alternatives.
   
 - 🚫 **[StopScroll](#)** – A productivity-focused app designed to block short video content on social media platforms, helping users break free from endless scrolling and regain control over their time.
   
